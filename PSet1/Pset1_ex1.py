@@ -24,7 +24,7 @@ print('Number of vowels: ' + str(count))
 
 
 '''
-Basically above code is doing:
+Another version of solution:
     
 count = 0
 for e in s:
